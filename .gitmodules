@@ -1,3 +1,6 @@
 [submodule "StreamsApi"]
 	path = StreamsApi
 	url = git@github.com:rinkaaan/StreamsApi.git
+[submodule "StreamsApp"]
+	path = StreamsApp
+	url = git@github.com:rinkaaan/StreamsApp.git
